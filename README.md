@@ -1,4 +1,4 @@
-# Aprendizado por projetos integrados (API): LogTech
+# Aprendizado por projetos integrados (API): JIEL.PM
 
 ## Sobre o projeto:
 
