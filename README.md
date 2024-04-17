@@ -1,4 +1,4 @@
-# Aprendizado por projetos integrados (API): JIEL.PM
+# Aprendizado por projetos integrados (API): JIEL.PM (Joint Initiative for Excllence in Logistics Project Management)
 
 ## Sobre o projeto:
 
