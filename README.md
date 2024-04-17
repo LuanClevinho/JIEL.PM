@@ -62,7 +62,26 @@ Projeto pedagógico fundamentado na Metodologia API para ensino-aprendizado, com
 
 # Backlog do produto
 
-
+| Sprint             |    Descrição |
+|:------------------:|:------------:|
+| 1                  | Tratar os dados do cliente em Python    |     
+| 1                  | Gerar planilhas para visualização do cliente    |  
+| 2                  | Estruturar a relação de dados do Power BI   |       
+| 2                  | Entrega de indicadores   |       
+| 2                  |  Uma tela de BI que mostre a produtividade mensal dos veículos  |       
+| 2                  | Uma tela BI com evolução dos custos por km de cada rota, filtrando por fábricas   |
+| 2                  | Uma tela BI com evolução dos custos por unidade transportada de cada rota, filtrando por fábricas   |
+| 2                  | Agregar os dados de produtividade para representar o desempenho mensal de todos os veículos   |
+| 2                  | Utilizar gráficos ou tabelas que destaquem as variações de desempenho ao longo dos meses   |
+| 2                  | Adicionar funcionalidades interativas à tela, como filtros por tipo de veículo ou período específico   |
+| 2                  | Permitir que os usuários explorem os dados de maneira dinâmica para obter insights mais detalhados   |
+| 3                  | Tratamento e modelagem dos dados em SQL   |
+| 3                  | Estrutura do banco de dados   |
+| 3                  | Integração da base de dados SQL e PowerBI   |
+| 3                  | Base SQL funcional   |
+| 3                  | Rotas mais usadas (decidir como será medido, por ex: mensal, diário)   |
+| 3                  | Visão geral das atividades de cada veículo   |
+| 4                  | Aplicação do Método de Transportes e Otimização em Python   |
 
 ...
 
