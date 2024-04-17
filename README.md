@@ -62,29 +62,31 @@ Projeto pedagógico fundamentado na Metodologia API para ensino-aprendizado, com
 
 # Backlog do produto
 
-| Sprint             |    Descrição |
-|:------------------:|:------------:|
-| 1                  | Tratar os dados do cliente em Python    |     
-| 1                  | Gerar planilhas para visualização do cliente    |  
-| 2                  | Estruturar a relação de dados do Power BI   |       
-| 2                  | Entrega de indicadores   |       
-| 2                  |  Uma tela de BI que mostre a produtividade mensal dos veículos  |       
-| 2                  | Uma tela BI com evolução dos custos por km de cada rota, filtrando por fábricas   |
-| 2                  | Uma tela BI com evolução dos custos por unidade transportada de cada rota, filtrando por fábricas   |
-| 2                  | Agregar os dados de produtividade para representar o desempenho mensal de todos os veículos   |
-| 2                  | Utilizar gráficos ou tabelas que destaquem as variações de desempenho ao longo dos meses   |
-| 2                  | Adicionar funcionalidades interativas à tela, como filtros por tipo de veículo ou período específico   |
-| 2                  | Permitir que os usuários explorem os dados de maneira dinâmica para obter insights mais detalhados   |
-| 3                  | Tratamento e modelagem dos dados em SQL   |
-| 3                  | Estrutura do banco de dados   |
-| 3                  | Integração da base de dados SQL e PowerBI   |
-| 3                  | Base SQL funcional   |
-| 3                  | Rotas mais usadas (decidir como será medido, por ex: mensal, diário)   |
-| 3                  | Visão geral das atividades de cada veículo   |
-| 4                  | Aplicação do Método de Transportes e Otimização em Python   |
+| Sprint             |    Descrição | Experiência do Usuário |
+|:------------------:|:------------:|:----------------------:|
+| 1                  | Tratar os dados do cliente em Python    | Como cliente, quero visualizar o tratamento dos meus dados, para entender qual ferramenta será usada e sua eficiência    
+| 1                  | Gerar planilhas para visualização do cliente    | Como cliente, quero visualizar meus dados de maneira clara, para entender efetivamente que dados posso querer ou não que sejam trabalhados   | 
+| 2                  | Estruturar a relação de dados do Power BI   | Como Analista de TI da empresa, quero entender como foi feita a relação de dados no Power bi, para poder alterar as relações com dados diferentes posteriormente.   |       
+| 2                  | Entrega de indicadores   | Como cliente, quero uma tela com os indicadores aplicados, para visualizar de forma otimizada os dados da produtividade da empresa  |      
+| 2                  |  Uma tela de BI que mostre a produtividade mensal dos veículos  | Como cliente, quero visualizar uma tela com os dados referentes a produtividade mensal dos veículos, para tomada de decisão da otimização do uso dos veículos  |      
+| 2                  | Uma tela BI com evolução dos custos por km de cada rota, filtrando por fábricas   | Como cliente, quero visualizar a tela no Power BI com a relação de custos das rotas das fabricas por km, para tomada de decisão de redução de custos   |
+| 2                  | Uma tela BI com evolução dos custos por unidade transportada de cada rota, filtrando por fábricas   | Como cliente, quero visualizar a evolução dos custos, para poder saber onde focar minhas reduções de custos   |
+| 2                  | Agregar os dados de produtividade para representar o desempenho mensal de todos os veículos   | Como cliente, quero visualizar os dados produtivos dos meus veículos, para compreender o desempenho mensal   |
+| 2                  | Utilizar gráficos ou tabelas que destaquem as variações de desempenho ao longo dos meses   | Como cliente, quero visualizar de maneira intuitiva os gráficos ou tabelas, para entender as variações de desempenho ao longos dos meses   |
+| 2                  | Adicionar funcionalidades interativas à tela, como filtros por tipo de veículo ou período específico   | Como cliente, quero poder interagir com meu produto de maneira intuitiva, para facilitar a apresentação de dados a minha equipe   |
+| 2                  | Permitir que os usuários explorem os dados de maneira dinâmica para obter insights mais detalhados   | Como cliente, quero que os dados trabalhados sejam apresentados de maneira dinâmica, para que minha equipe possa interagir com eles   |
+| 3                  | Tratamento e modelagem dos dados em SQL   | Como membro da equipe de TI, quero visualizar os dados modelados em SQL, para fazer tratamentos posteriores de acordo com necessidades da empresa    |
+| 3                  | Estrutura do banco de dados   | Como membro da equipe de TI, quero visualizar a estrutura do banco de dados, para entender a relação das fontes de dados   |
+| 3                  | Integração da base de dados SQL e PowerBI   | Como cliente, quero uma base de dados do SQL correlacionada com o Power BI, para que o usufruto do produto seja bem estruturado   |
+| 3                  | Base SQL funcional   | Como cliente, quero uma estrutura do SQL funcional, para que minha equipe de TI possa trabalhar nela sem muitos problemas   |
+| 3                  | Rotas mais usadas (decidir como será medido, por ex: mensal, diário)   | Como cliente, quero entender quais as rotas mais utilizadas com métricas que fazem sentido, para avaliar e gerar estudos em cima delas   |
+| 3                  | Visão geral das atividades de cada veículo   | Como cliente, quero visualizar as atividades que norteiam os veículos da empresa, para dar suporte e complementar análises de outros dados fornecidos   |
+| 4                  | Aplicação do Método de Transportes e Otimização em Python   | Como cliente, quero visualizar meu produto final otimizado, para que minhas tomadas de decisões sejam mais assertivas.   |
 
-...
 
+# MVP 1°Sprint (Minimum Viable Product)
+
+Nosso MVP da 1°Sprint é a geração de uma planilha com os dados que o cliente forneceu, via tratamento deles por Python, pois é o produto mais simples e objetivo que o cliente pode usufruir, feito para seu primeiro entendimento de nossa compreensão no processo de tratamento dos dados.
 
 
 
