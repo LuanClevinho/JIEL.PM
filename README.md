@@ -39,14 +39,14 @@ Este projeto, hospedado na plataforma GitHub, tem como objetivo facilitar o ambi
 
 Projeto pedagógico fundamentado na Metodologia API para ensino-aprendizado, com foco no desenvolvimento de competências e baseado nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. Utilizamos estratégias para compreender o problema, conceber uma solução viável durante o desenvolvimento e implementar o MVP, seguido pela sua operação (CDIO).
 
-| Sprint             |    Data      |   Status      |
-|:------------------:|:------------:|:-------------:|
-| Kick Off           | 13/03/2024   | Concluído     |
-| 1                  | 17/04/2024   | Conclúido     |
-| 2                  | 08/05/2024   | Em progresso  |
-| 3                  | 29/05/2024   | A fazer       |
-| 4                  | 19/06/2024   | A fazer       |
-| Feira de Soluções  | 27/06/2024   | A fazer       |
+| Sprint             |    Data      |   Status      | Relatório      |
+|:------------------:|:------------:|:-------------:|:--------------:|
+| Kick Off           | 13/03/2024   | Concluído     |                |
+| 1                  | 17/04/2024   | Conclúido     |                |
+| 2                  | 08/05/2024   | Em progresso  |                |
+| 3                  | 29/05/2024   | A fazer       |                |
+| 4                  | 19/06/2024   | A fazer       |                |
+| Feira de Soluções  | 27/06/2024   | A fazer       |                |
 
 # Tecnologias utilizadas
 - Jira Software
