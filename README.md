@@ -42,11 +42,11 @@ Projeto pedagógico fundamentado na Metodologia API para ensino-aprendizado, com
 | Sprint             |    Data      |   Status      | Relatório      |
 |:------------------:|:------------:|:-------------:|:--------------:|
 | Kick Off           | 13/03/2024   | Concluído     |                |
-| 1                  | 17/04/2024   | Conclúido     |                |
-| 2                  | 08/05/2024   | Em progresso  |                |
-| 3                  | 29/05/2024   | A fazer       |                |
-| 4                  | 19/06/2024   | A fazer       |                |
-| Feira de Soluções  | 27/06/2024   | A fazer       |                |
+| 1                  | 17/04/2024   | Conclúido     |[![Microsoft Word Badge](https://img.shields.io/badge/Microsoft_Word-blue?style=flat-square&logo=Microsoft%20Word&logoColor=white)](URL_DO_SEU_RELATÓRIO)                |
+| 2                  | 08/05/2024   | Em progresso  |[![Microsoft Word Badge](https://img.shields.io/badge/Microsoft_Word-blue?style=flat-square&logo=Microsoft%20Word&logoColor=white)](URL_DO_SEU_RELATÓRIO)                |
+| 3                  | 29/05/2024   | A fazer       |[![Microsoft Word Badge](https://img.shields.io/badge/Microsoft_Word-blue?style=flat-square&logo=Microsoft%20Word&logoColor=white)](URL_DO_SEU_RELATÓRIO)                |
+| 4                  | 19/06/2024   | A fazer       |[![Microsoft Word Badge](https://img.shields.io/badge/Microsoft_Word-blue?style=flat-square&logo=Microsoft%20Word&logoColor=white)](URL_DO_SEU_RELATÓRIO)                |
+| Feira de Soluções  | 27/06/2024   | A fazer       |[![Microsoft Word Badge](https://img.shields.io/badge/Microsoft_Word-blue?style=flat-square&logo=Microsoft%20Word&logoColor=white)](URL_DO_SEU_RELATÓRIO)                |
 
 # Tecnologias utilizadas
 - Jira Software
