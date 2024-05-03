@@ -120,7 +120,7 @@ Projeto pedagógico fundamentado na Metodologia API para ensino-aprendizado, com
 | Sprint | Descrição | Experiência do Usuário |
 |--------|-----------|------------------------|
 
-
+</details>
 
 # MVP 1°Sprint (Minimum Viable Product)
 
