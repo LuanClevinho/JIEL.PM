@@ -129,6 +129,9 @@ Nosso MVP da 1°Sprint é a geração de uma planilha com os dados que o cliente
 
 link para o vídeo MVP: https://fatecspgov-my.sharepoint.com/:u:/g/personal/paulo_souza109_fatec_sp_gov_br/EbF2mU9te-xMoc9ScnA2w-8B5KzMgji1Hfv9MU0GJIac6Q?e=FbjVi7
 
+# MVP 2°Sprint (Minimum Viable Product)
+
+Em nossa 2°Sprint, nosso MVP é a geração do Power BI com os indicadores negociados com o cliente, de modo a Dashboard sem dinâmica e de fácil uso do cliente.
 
 # Competências desenvolvidas
 
