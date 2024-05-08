@@ -44,7 +44,7 @@ Projeto pedagógico fundamentado na Metodologia API para ensino-aprendizado, com
 |:------------------:|:------------:|:-------------:|:--------------:|
 | Kick Off           | 13/03/2024   | Concluído     |                |
 | 1                  | 17/04/2024   | Conclúido     |[![Microsoft Word Badge](https://img.shields.io/badge/Microsoft_Word-blue?style=flat-square&logo=Microsoft%20Word&logoColor=white)](https://github.com/LuanClevinho/JIEL.PM/blob/f73e77cd6cc379cc6b87f39735d4eba2330df28d/Resumo%20Sprint%20(1).pdf)                |
-| 2                  | 08/05/2024   | Em progresso  |[![Microsoft Word Badge](https://img.shields.io/badge/Microsoft_Word-blue?style=flat-square&logo=Microsoft%20Word&logoColor=white)](URL_DO_SEU_RELATÓRIO)                |
+| 2                  | 08/05/2024   | Em progresso  |[![Microsoft Word Badge](https://img.shields.io/badge/Microsoft_Word-blue?style=flat-square&logo=Microsoft%20Word&logoColor=white)](https://github.com/LuanClevinho/JIEL.PM/blob/a2a0f3dbe3395915028b6cbf08d151852d040d03/Resumo%20Sprint%202.pdf)                |
 | 3                  | 29/05/2024   | A fazer       |[![Microsoft Word Badge](https://img.shields.io/badge/Microsoft_Word-blue?style=flat-square&logo=Microsoft%20Word&logoColor=white)](URL_DO_SEU_RELATÓRIO)                |
 | 4                  | 19/06/2024   | A fazer       |[![Microsoft Word Badge](https://img.shields.io/badge/Microsoft_Word-blue?style=flat-square&logo=Microsoft%20Word&logoColor=white)](URL_DO_SEU_RELATÓRIO)                |
 | Feira de Soluções  | 27/06/2024   | A fazer       |[![Microsoft Word Badge](https://img.shields.io/badge/Microsoft_Word-blue?style=flat-square&logo=Microsoft%20Word&logoColor=white)](URL_DO_SEU_RELATÓRIO)                |
