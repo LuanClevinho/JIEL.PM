@@ -129,7 +129,7 @@ Projeto pedagógico fundamentado na Metodologia API para ensino-aprendizado, com
 
 Nosso MVP da 1°Sprint é a geração de uma planilha com os dados que o cliente forneceu, via tratamento deles por Python, pois é o produto mais simples e objetivo que o cliente pode usufruir, feito para seu primeiro entendimento de nossa compreensão no processo de tratamento dos dados.
 
-link para o vídeo MVP: https://fatecspgov-my.sharepoint.com/:u:/g/personal/paulo_souza109_fatec_sp_gov_br/EbF2mU9te-xMoc9ScnA2w-8B5KzMgji1Hfv9MU0GJIac6Q?e=FbjVi7
+[**Link vídeo MVP**](https://fatecspgov-my.sharepoint.com/:u:/g/personal/paulo_souza109_fatec_sp_gov_br/EbF2mU9te-xMoc9ScnA2w-8B5KzMgji1Hfv9MU0GJIac6Q?e=FbjVi7)
 
 # MVP 2°Sprint (Minimum Viable Product)
 
