@@ -12,6 +12,7 @@ Projeto baseado na metodologia ágil Scrum e tem como propósito conduzir a aná
 * [Linguagens de programação utilizadas](#linguagens-de-programação-utilizadas)
 * [Backlog do produto](#backlog-do-produto)
 * [MVP 1°Sprint (Minimum Viable Product)](#mvp-1sprint-minimum-viable-product)
+* [MVP 2°Sprint (Minimum Viable Product)](#mvp-2sprint-minimum-viable-product)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
