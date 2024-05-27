@@ -124,7 +124,11 @@ Projeto pedagógico fundamentado na Metodologia API para ensino-aprendizado, com
 
 | Sprint | Descrição | Experiência do Usuário |
 |--------|-----------|------------------------|
-
+| 4      | Documentação do código Python | Eu como cliente, quero a documentação do código Python, para que minha equipe de TI possa trabalhar em futuras atualizações pertinentes |
+| 4      | Visualizações Gráficas dos Resultados | Eu como cliente, quero visualizar os novos gráficos referentes à otimização, para entender de maneira clara o que gera ou não lucro e/ou prejuízo |
+| 4      | Relatórios Visuais de Desempenho | Eu como cliente, quero visualizar relatórios dinâmicos, para poder ver todos os meus desempenhos |
+| 4      | Exportação de Resultados em Formatos Comuns | Eu como cliente, quero exportar os dados do meu produto em formatos simples, para poder visualizar meus dados tratados de outras formas |
+| 4      | Manual do Produto Final | Eu como cliente, quero um manual do produto final, para que eu e minha empresa possamos usar futuramente |
 </details>
 
 # MVP 1°Sprint (Minimum Viable Product)
