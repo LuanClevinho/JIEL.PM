@@ -137,7 +137,7 @@ Nosso MVP da 1°Sprint é a geração de uma planilha com os dados que o cliente
 
 Em nossa 2°Sprint, nosso MVP é a geração do Power BI com os indicadores negociados com o cliente, de modo a Dashboard ser dinâmica e de fácil uso do cliente.
 
-[**Video MVP**](https://drive.google.com/file/d/1h5bN7Q5yIgZYp7t_L-70jOfsm_fH9MfH/view?usp=sharing)
+[**Link Video MVP**](https://drive.google.com/file/d/1h5bN7Q5yIgZYp7t_L-70jOfsm_fH9MfH/view?usp=sharing)
 
 # Competências desenvolvidas
 
