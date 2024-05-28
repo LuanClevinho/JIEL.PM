@@ -13,6 +13,7 @@ Projeto baseado na metodologia ágil Scrum e tem como propósito conduzir a aná
 * [Backlog do produto](#backlog-do-produto)
 * [MVP 1°Sprint (Minimum Viable Product)](#mvp-1sprint-minimum-viable-product)
 * [MVP 2°Sprint (Minimum Viable Product)](#mvp-2sprint-minimum-viable-product)
+* [MVP 3°Sprint (Minimum Viable Product)](#mvp-3sprint-minimum-viable-product)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
@@ -135,13 +136,19 @@ Projeto pedagógico fundamentado na Metodologia API para ensino-aprendizado, com
 
 Nosso MVP da 1°Sprint é a geração de uma planilha com os dados que o cliente forneceu, via tratamento deles por Python, pois é o produto mais simples e objetivo que o cliente pode usufruir, feito para seu primeiro entendimento de nossa compreensão no processo de tratamento dos dados.
 
-[**Link vídeo MVP**](https://fatecspgov-my.sharepoint.com/:u:/g/personal/paulo_souza109_fatec_sp_gov_br/EbF2mU9te-xMoc9ScnA2w-8B5KzMgji1Hfv9MU0GJIac6Q?e=FbjVi7)
+[**Link Vídeo MVP**](https://fatecspgov-my.sharepoint.com/:u:/g/personal/paulo_souza109_fatec_sp_gov_br/EbF2mU9te-xMoc9ScnA2w-8B5KzMgji1Hfv9MU0GJIac6Q?e=FbjVi7)
 
 # MVP 2°Sprint (Minimum Viable Product)
 
 Em nossa 2°Sprint, nosso MVP é a geração do Power BI com os indicadores negociados com o cliente, de modo a Dashboard ser dinâmica e de fácil uso do cliente.
 
-[**Link Video MVP**](https://drive.google.com/file/d/1h5bN7Q5yIgZYp7t_L-70jOfsm_fH9MfH/view?usp=sharing)
+[**Link Vídeo MVP**](https://drive.google.com/file/d/1h5bN7Q5yIgZYp7t_L-70jOfsm_fH9MfH/view?usp=sharing)
+
+# MVP 3°Sprint (Minimum Viable Product)
+
+Com a 3°Sprint buscamos entregar um SQL estruturado com os dados disponibilizados pelo cliente, a relação estrutural do Power BI com o SQL e a otimização em Python desses dados
+
+[**Link Vídeo MVP**]()
 
 # Competências desenvolvidas
 
