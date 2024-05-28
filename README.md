@@ -148,7 +148,7 @@ Em nossa 2°Sprint, nosso MVP é a geração do Power BI com os indicadores nego
 
 Com a 3°Sprint buscamos entregar um SQL estruturado com os dados disponibilizados pelo cliente, a relação estrutural do Power BI com o SQL e a otimização em Python desses dados
 
-[**Link Vídeo MVP**]()
+[**Link Vídeo MVP**](https://youtu.be/HRrtSNvbFoM)
 
 # Competências desenvolvidas
 
