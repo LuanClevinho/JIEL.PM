@@ -14,6 +14,7 @@ Projeto baseado na metodologia ágil Scrum e tem como propósito conduzir a aná
 * [MVP 1°Sprint (Minimum Viable Product)](#mvp-1sprint-minimum-viable-product)
 * [MVP 2°Sprint (Minimum Viable Product)](#mvp-2sprint-minimum-viable-product)
 * [MVP 3°Sprint (Minimum Viable Product)](#mvp-3sprint-minimum-viable-product)
+* [MVP 4°Sprint (Minimum Viable Product)](#mvp-4sprint-minimum-viable-product)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
@@ -149,6 +150,12 @@ Em nossa 2°Sprint, nosso MVP é a geração do Power BI com os indicadores nego
 Com a 3°Sprint buscamos entregar um SQL estruturado com os dados disponibilizados pelo cliente, a relação estrutural do Power BI com o SQL e a otimização em Python desses dados
 
 [**Link Vídeo MVP**](https://youtu.be/HRrtSNvbFoM)
+
+# MVP 4°Sprint (Minimum Viable Product)
+
+Em nossa última Sprint, demos as correções finais ao nosso PBI, realizando a integração com os dados estruturados no SQL e geramos manuais para os arquivos de mais relevância para o cliente poder recriar passo-a-passo, bem detalhado e explicado, oque ele desejar com informações atualizadas
+
+[**Link Vídeo MVP**](https://youtu.be/LUYk3IMd7Uc)
 
 # Competências desenvolvidas
 
