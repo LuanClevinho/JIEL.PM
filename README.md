@@ -209,8 +209,4 @@ Em nossa última Sprint, demos as correções finais ao nosso PBI, realizando a 
 | Team Member     |    Paulo Veloso   |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-henrique-2b5039209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)    |
 
 
-##
 
-<h4 align="center">
-🚧 README em construção... 🚧
-</h4>
