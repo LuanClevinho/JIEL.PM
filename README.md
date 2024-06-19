@@ -54,16 +54,16 @@ Projeto pedagógico fundamentado na Metodologia API para ensino-aprendizado, com
 
 
 
-
 # Tecnologias utilizadas
 
-| Tecnologia       | Imagem                                                                                         |
-|------------------|------------------------------------------------------------------------------------------------|
-| Jira Software    | <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Jira_Logo.svg" width="100" />    |
-| Power BI         | <img src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" width="100" /> |
-| Microsoft Excel  | <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Microsoft_Excel_Logo_%282013-2019%29.svg" width="100" /> |
-| SQL              | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/320px-Sql_data_base_with_logo.png" width="100" /> |
-| Slack            | <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png" width="100" />   |
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Jira_Logo.svg" width="100" />
+<img src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" width="100" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Microsoft_Excel_Logo_%282013-2019%29.svg" width="100" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/320px-Sql_data_base_with_logo.png" width="100" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png" width="100" />
+<img src="(https://seeklogo.com/images/D/DAX-logo-6E87145B0D-seeklogo.com.png)" width="100" />
+<img src="(https://cdn.iconscout.com/icon/free/png-512/free-python-3521655-2945099.png?f=webp&w=256)" width="100" />
+<img src="(https://e7.pngegg.com/pngimages/963/116/png-clipart-markdown-logo-icons-logos-emojis-tech-companies.png)" width="100" />
                                                                      
 
 
