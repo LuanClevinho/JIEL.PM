@@ -58,7 +58,7 @@ Projeto pedagógico fundamentado na Metodologia API para ensino-aprendizado, com
 # Tecnologias utilizadas
 
 - ![Jira Software](https://upload.wikimedia.org/wikipedia/commons/8/8a/Jira_Logo.svg)
-- ![Power BI](https://upload.wikimedia.org/wikipedia/commons/6/61/Power-BI-logo-300x79.png)
+- ![Power BI](file:///C:/Users/oj0040/Downloads/Design%20sem%20nome.png)
 - ![Microsoft Excel](https://upload.wikimedia.org/wikipedia/commons/8/8d/Microsoft_Excel_Logo_%282013-2019%29.svg)
 - ![SQL](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/320px-Sql_data_base_with_logo.png)
 - ![Slack](https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png)
